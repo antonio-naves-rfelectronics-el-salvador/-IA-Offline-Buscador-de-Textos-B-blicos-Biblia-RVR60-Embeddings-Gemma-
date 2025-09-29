@@ -1,0 +1,2 @@
+# -IA-Offline-Buscador-de-Textos-B-blicos-Biblia-RVR60-Embeddings-Gemma-
+Este proyecto es una aplicación offline diseñada para realizar búsquedas rápidas y precisas en la Biblia Reina-Valera 1960 (RVR60) utilizando embeddings generados con Gemma.  La herramienta permite localizar pasajes bíblicos relacionados semánticamente con la consulta del usuario, incluso si no se escribe la cita o palabra exacta.
