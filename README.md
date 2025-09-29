@@ -36,14 +36,23 @@ La herramienta permite localizar pasajes bíblicos relacionados semánticamente 
 
 IA Offline Buscador Biblia RVR60/
 │
+│
 ├── buscasor_de_textos_biblicos.exe
+│
 ├── data/
+│   │
 │   ├── cross-encoderms-marco-MiniLM-L6-v2/   (Modelo CrossEncoder para reranqueo)
+│   │
 │   ├── embeddinggemma-300m/                  (Modelo de embeddings)
+│   │
 │   ├── icon.ico                              (Icono del programa)
+│   │
 │   ├── icon.png                              (Imagen de icono en PNG)
+│   │
 │   ├── portada.png                           (Imagen de portada splash)
+│   │
 │   ├── rvr60.sqlite3                         (Texto bíblico RVR60)
+│   │
 │   └── rvr60_embeddings.db                   (Base de datos de embeddings vectoriales)
 
 
