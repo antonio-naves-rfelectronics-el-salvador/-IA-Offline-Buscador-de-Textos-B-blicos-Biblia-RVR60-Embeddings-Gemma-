@@ -1,0 +1,9 @@
+pip install pyinstaller
+
+pyinstaller --onefile ^
+--add-data "data/icon.png;data/icon.png" ^
+--add-data "data/portada.png;data/portada.png" ^
+--add-data "data/icon.ico;data/icon.ico" ^
+--icon=data/icon.ico ^
+--noconsole ^
+buscasor_de_textos_biblicos.py
